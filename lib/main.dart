@@ -32,12 +32,13 @@ class StarCollectorGame extends FlameGame with TapDetector, HasKeyboardHandlerCo
     // Create UI
     scoreText = TextComponent(
       text: 'Score: 0',
-      position: Vector2(20, 20),
+      position: Vector2(170, 50),
       textRenderer: TextPaint(
         style: const TextStyle(
-          color: Colors.white,
+          color: Color.fromARGB(255, 55, 195, 62),
           fontSize: 24,
           fontWeight: FontWeight.bold,
+          fontFamily: 'roboto'
         ),
       ),
     );
