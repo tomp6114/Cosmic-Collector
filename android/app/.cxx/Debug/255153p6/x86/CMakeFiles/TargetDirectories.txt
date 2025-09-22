@@ -1,0 +1,2 @@
+/Users/tompvarghese/Documents/Work/cosmic_collector_game/android/app/.cxx/Debug/255153p6/x86/CMakeFiles/edit_cache.dir
+/Users/tompvarghese/Documents/Work/cosmic_collector_game/android/app/.cxx/Debug/255153p6/x86/CMakeFiles/rebuild_cache.dir
